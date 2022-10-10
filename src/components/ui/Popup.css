@@ -1,0 +1,13 @@
+.popup {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    max-width: 300px;
+    background-color: black;
+}
+
+.close-btn {
+position: absolute;
+right: 10px;
+top:10px;
+}
